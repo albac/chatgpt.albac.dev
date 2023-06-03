@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-albacchat-dev-132939-authRole",
+      "UnauthRoleArn": "arn:aws:iam::849514089141:role/amplify-albacchat-dev-132939-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::849514089141:role/amplify-albacchat-dev-132939-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-albacchat-dev-132939-deployment",
+      "UnauthRoleName": "amplify-albacchat-dev-132939-unauthRole",
+      "StackName": "amplify-albacchat-dev-132939",
+      "StackId": "arn:aws:cloudformation:us-east-2:849514089141:stack/amplify-albacchat-dev-132939/9be3b970-023c-11ee-bb84-06c32d362489",
+      "AmplifyAppId": "d3jrcggfvo7xsf"
+    }
+  }
+}

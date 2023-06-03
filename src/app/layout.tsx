@@ -28,7 +28,14 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: LayoutComponentProps) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body className="bg-slate-100 dark:bg-slate-900">
+        {children}
+        <footer className="text-center text-slate-600 dark:text-slate-400 p-4">
+          <p>
+            All rights reserved &copy; albac.dev {new Date().getFullYear()}{" "}
+          </p>
+        </footer>
+      </body>
     </html>
   );
 }

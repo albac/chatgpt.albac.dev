@@ -1,6 +1,6 @@
 import Image from "next/image";
-import mePic from "../../../public/me.webp";
-import botPic from "../../../public/bot.png";
+import mePic from "../../public/me.webp";
+import botPic from "../../public/bot.png";
 import { Creator, MessageProps } from "@/types";
 
 const ChatMessage = ({ text, from }: MessageProps) => {
