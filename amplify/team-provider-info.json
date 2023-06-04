@@ -1,15 +1,25 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-albacchat-dev-132939-authRole",
-      "UnauthRoleArn": "arn:aws:iam::849514089141:role/amplify-albacchat-dev-132939-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::849514089141:role/amplify-albacchat-dev-132939-authRole",
-      "Region": "us-east-2",
-      "DeploymentBucketName": "amplify-albacchat-dev-132939-deployment",
-      "UnauthRoleName": "amplify-albacchat-dev-132939-unauthRole",
-      "StackName": "amplify-albacchat-dev-132939",
-      "StackId": "arn:aws:cloudformation:us-east-2:849514089141:stack/amplify-albacchat-dev-132939/9be3b970-023c-11ee-bb84-06c32d362489",
-      "AmplifyAppId": "d3jrcggfvo7xsf"
+      "AuthRoleName": "amplify-albacchat-dev-185644-authRole",
+      "UnauthRoleArn": "arn:aws:iam::849514089141:role/amplify-albacchat-dev-185644-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::849514089141:role/amplify-albacchat-dev-185644-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-albacchat-dev-185644-deployment",
+      "UnauthRoleName": "amplify-albacchat-dev-185644-unauthRole",
+      "StackName": "amplify-albacchat-dev-185644",
+      "StackId": "arn:aws:cloudformation:us-west-2:849514089141:stack/amplify-albacchat-dev-185644/4ccff4b0-026a-11ee-8bf5-0a3c4286f0f1",
+      "AmplifyAppId": "d28z6yj0786lel"
+    },
+    "categories": {
+      "auth": {
+        "albacchat611964e2": {
+          "userPoolId": "us-west-2_amzvCdkv6",
+          "userPoolName": "albacdev9c9c3dfe_userpool_9c9c3dfe-dev",
+          "webClientId": "1l61f93gii2on1nur8co3iu2mk",
+          "nativeClientId": "1l61f93gii2on1nur8co3iu2mk"
+        }
+      }
     }
   }
 }
